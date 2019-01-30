@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">BMC Front Desk</string>
+    <string name="admin_portal">Admin Portal</string>
+    <string name="admin_password_needed_to_access_portal">Admin password needed to access portal.</string>
+    <string name="cancel">CANCEL</string>
+    <string name="first_name">First Name</string>
+    <string name="sign_in">SIGN IN</string>
+    <string name="admin_password">Admin Password</string>
+    <string name="next">NEXT</string>
+</resources>
